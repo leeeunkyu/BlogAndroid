@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name"><![CDATA[<name>]]></string>
+    <string name="name2"><![CDATA[</name>]]></string>
+    <string name="iu">아이유</string>
+    <string name="age"><![CDATA[<age>]]></string>
+    <string name="_25">25</string>
+    <string name="age2"><![CDATA[</age>]]></string>
+    <string name="email"><![CDATA[<email>]]></string>
+    <string name="xdkyu_naver_com">xdkyu@naver.com</string>
+    <string name="email2"><![CDATA[</email>]]></string>
+    <string name="my_status_200_ok">my status 200 ok!!!</string>
+    <string name="if_call_me">if(call me)</string>
+    <string name="phone"><![CDATA[<phone>]]></string>
+    <string name="phone2"><![CDATA[</phone>]]></string>
+    <string name="phonenum">01042465530</string>
+</resources>
